@@ -2,6 +2,6 @@
 # ansible/manifest.yml
 
 system:
-  hostname: "home.local"
+  hostname: "rfhome.local"
   timezone: "Etc/UTC"
 ...
